@@ -1,0 +1,45 @@
+/* Write your CSS code here */
+.header {
+  display: flex;
+}
+
+.container {
+  margin: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.list-container {
+  list-style-type: none;
+  display: flex;
+}
+
+.home {
+  color: #6d396b;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: bold;
+  margin: 20px;
+}
+
+.about {
+  color: #6d396b;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: bold;
+  margin: 20px;
+}
+
+.contact {
+  color: #6d396b;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: bold;
+  margin: 20px;
+}
+
+.header-name {
+  color: #6d396b;
+  font-family: 'Roboto';
+  font-size: 30px;
+}

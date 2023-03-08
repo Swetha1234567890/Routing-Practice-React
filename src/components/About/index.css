@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.heading {
+  color: #551e53;
+  font-family: 'Roboto';
+  font-size: 40px;
+}
+
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-text {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
